@@ -7,7 +7,7 @@ import sys
 import argparse
 
 
-__version__ = '0.1dev'
+__version__ = '0.9'
 
 
 LOG_FORMAT = '%(levelcolor)s%(levelname)s%(resetcolor)s %(message)s'
